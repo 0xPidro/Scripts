@@ -15,4 +15,4 @@ A custom Bash wrapper for `ffuf` designed to perform nested brute-forcing (User 
 ## 📖 Usage
 1. Make the script executable:
    ```bash
-   chmod +x brute_auth.sh
+   chmod +x htb_broken_auth.sh
